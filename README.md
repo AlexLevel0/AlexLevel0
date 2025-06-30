@@ -5,22 +5,15 @@
 ### GAME CENTER ZERO
 ジャンル：ゲーム
 URL：https://gamecenterzero.com
-x：@
-オープンチャット：
 
 ### SHUYAKU
 ジャンル：ライブ配信サービス
 URL：https://shuyaku.me
-x：@
-オープンチャット
 
 ### OCFA CLUB
 ジャンル：お絵描きサービス
 URL：https://ocfaclub.com
-x：@zeroocfa
-オープンチャット
 
 ### ぜろとのホームページ
 ジャンル：ポートフォリオ
 URL：https://entp.jp
-x：@zeroto0000
